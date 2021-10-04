@@ -1,4 +1,4 @@
-### Olá eu me Everton 👋
+### Olá eu me chamo Everton 👋
 
 <!--
 **FreitasOliver/FreitasOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
