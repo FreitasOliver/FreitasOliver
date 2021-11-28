@@ -1,6 +1,6 @@
 ### Olá eu me chamo Everton 👋
 
-Desenvolvedor Java Jr. pela Generation Brasil
+Desenvolvedor Java Jr.
 
  <div>
   <a href="https://github.com/FreitasOliver">
